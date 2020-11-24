@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/public/upload
+/storage/logs
+/storage/framework
+/storage/app
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+sftp-config.json
+.env
